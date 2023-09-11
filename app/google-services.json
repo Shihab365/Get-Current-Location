@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586140439277",
+    "firebase_url": "https://livefireshot-5eb59-default-rtdb.firebaseio.com",
+    "project_id": "livefireshot-5eb59",
+    "storage_bucket": "livefireshot-5eb59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586140439277:android:231baaecf36021641bb2e4",
+        "android_client_info": {
+          "package_name": "com.shihab365.getcurrentlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586140439277-q6h8n8q5r70nkauk1ir5m80fvcdpbqrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0GXhcpi9nEgdQLKmbrjARoahZw872yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586140439277-q6h8n8q5r70nkauk1ir5m80fvcdpbqrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
